@@ -45,6 +45,7 @@ const Contact = ({ data }) => {
           action="/thanks"
           name="contact"
           method="POST"
+          data-netlify-
           data-netlify="true"
           data-netlify-honeypot="bot-field"
         >
